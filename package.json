@@ -1,0 +1,22 @@
+{
+  "name": "mastering-react",
+  "version": "1.0.0",
+  "description": "Mastering React Video Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsendel/idea_react/idea_react.git"
+  },
+  "author": "Luis Diaz-Sendel",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.0-beta1",
+    "react-dom": "^0.14.0-beta1"
+  },
+  "devDependencies": {
+    "babelify": "^7.2.0"
+  }
+}
